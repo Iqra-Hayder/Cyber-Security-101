@@ -67,6 +67,8 @@ On a typical local Windows system, user accounts fall into **two categories**:
 **Q: What is the account description?**  
 **A: `window$Fun1!`**
 
+
+
 ---
 
 ## 📖 Key Terms Explained
