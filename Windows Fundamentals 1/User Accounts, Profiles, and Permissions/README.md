@@ -57,7 +57,9 @@ On a typical local Windows system, user accounts fall into **two categories**:
 ## 📝 Question & Answer
 **Q: What is the name of the other user account?**  
 **A: `tryhackmebilly`**
-![User Name Screenshot](user%20name.PNG)
+<p align="center">
+  <img src="user%20name.PNG" alt="User Name Screenshot" width="400"/>
+</p>
 
 **Q: What groups is this user a member of?**  
 **A: `Remote Desktop Users, Users`**
