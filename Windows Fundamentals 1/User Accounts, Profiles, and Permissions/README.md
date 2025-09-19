@@ -63,7 +63,9 @@ On a typical local Windows system, user accounts fall into **two categories**:
 
 **Q: What groups is this user a member of?**  
 **A: `Remote Desktop Users, Users`**
-![Member Of Screenshot](member%20of.PNG)
+<p align="center">
+  <img src="member%20of.PNG" alt="Member Of Screenshot" width="400"/>
+</p>
 
 **Q: What built-in account is for guest access to the computer?**  
 **A: `Guest`**
